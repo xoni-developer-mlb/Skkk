@@ -1,0 +1,10 @@
+{
+  "Visibility": "VISIBLE",
+  "Title": "New Updates Available!",
+  "Description": "We’ve optimized system performance and fixed issues to ensure a more stable experience",
+  "MainTextButton": "Update",
+  "Cancelable": "true",
+  "CancelButtonText": "Later",
+  "DownloadLink": "https://play.google.com/store/apps/details?id=com.jc.prime.tools",
+  "Version": "1.2"
+}
