@@ -11,6 +11,10 @@
     {
       "license_key": "lee",
       "expired_date": "2026-12-31"
+    },
+    {
+      "license_key": "Test",
+      "expired_date": "2026\/5\/20"
     }
   ]
 }
