@@ -1,0 +1,13 @@
+{
+  "Feature": [
+    {
+      "file_url": "TEST-KEY-123",
+      "file_name": "2026-12-31",
+      "available_version": "GL 64/ 32",
+      "script_name": "test",
+      "img": "image",
+      "icon": "icon"
+    }
+  ]
+}
+
